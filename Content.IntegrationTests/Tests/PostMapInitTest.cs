@@ -48,7 +48,8 @@ namespace Content.IntegrationTests.Tests
             "TestTeg",
             "CentComm",
             "MeteorArena",
-            "Saltern" // WYPT14
+            "NukieOutpost"
+            "Saltern", // WYPT14
         };
 
         /// <summary>
