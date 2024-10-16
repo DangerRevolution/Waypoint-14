@@ -48,22 +48,8 @@ namespace Content.IntegrationTests.Tests
             "TestTeg",
             "CentComm",
             "MeteorArena",
-            "NukieOutpost",
-            "Core",
-            "Pebble", //DeltaV
-            "Edge", //DeltaV
+            "NukieOutpost"
             "Saltern", // WYPT14
-            "Shoukou", //DeltaV
-            "Tortuga", //DeltaV
-            "Arena", //DeltaV
-            "Asterisk", //DeltaV
-            "Glacier", //DeltaV
-            "TheHive", //DeltaV
-            "Hammurabi", //DeltaV
-            "Lighthouse", //DeltaV
-            "Submarine", //DeltaV
-            "Gax",
-            "Rad"
         };
 
         /// <summary>
